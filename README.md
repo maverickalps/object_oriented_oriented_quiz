@@ -37,21 +37,15 @@ To run the project:
 
 Clone this repository:
 
-bash
-Copy
-Edit
+bash command 
 git clone https://github.com/maverickalps/object_oriented_oriented_quiz.git
 Navigate to the project folder:
 
 bash
-Copy
-Edit
 cd quiz-game
 Run the script:
 
 bash
-Copy
-Edit
 python main.py
 📚 Acknowledgment
 This project is part of the 100 Days of Code: Python Bootcamp by Dr. Angela Yu, available on Udemy.
